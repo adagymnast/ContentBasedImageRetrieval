@@ -17,3 +17,14 @@ application.
 ## Keywords
 Content-Based Image Retrieval, Image Features, Convolutional Neural
 Networks, Transfer Learning.
+
+## Functionality
+
+Content-based image retrieval (CBIR) represents a technique to extract image
+features based on visual content. In other words, each image is indexed based on
+its visual properties, like colour, texture and shape. The main goal of CBIR is to
+find the most similar images to an image defined by a user from a given database.
+Therefore, the images need to be characterized efficiently to keep similar images
+close in terms of distance.
+
+![Content-Based Image Retrival Pipeline](https://drive.google.com/file/d/14hpiP4Q86jjKZf4CmFuNP-IMrbf0wsAE/view?usp=drive_link)
