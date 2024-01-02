@@ -27,6 +27,4 @@ find the most similar images to an image defined by a user from a given database
 Therefore, the images need to be characterized efficiently to keep similar images
 close in terms of distance.
 
-![Content-Based Image Retrival Pipeline](https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/CBIR%20system.PNG)
-
-<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/CBIR%20system.PNG" width="100" height="100">
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/CBIR%20system.PNG" width="500" height="350">
