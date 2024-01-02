@@ -1,0 +1,25 @@
+  
+
+
+  <!-- 02_out.html -->
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>Process new file</title>
+  </head>
+  <body>
+      <h1>Demo for uploading:</h1>
+      <form action="demo_json" method="post" enctype="multipart/form-data">
+          <input type="file" name="file" style="width:400px">
+          <input type="submit" value="Upload" style="width:200px">	
+      </form>
+      <h1>Processed Image - GRAY:</h1>
+      <img src="{{ img_file }}" alt="Output" width="500">
+      <img src="{{ avg_file }}" alt="Output_gray" width="500">
+      <img src="{{ dom_file }}" alt="Output_gray" width="500">
+      <h1>JSON structure:</h1>
+      <p>{{ json_structure }}</p>
+  </body>
+  </html>
+  

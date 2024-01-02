@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Process new file</title>
+</head>
+<body>
+    <h1>Demo for uploading:</h1>
+    <form action="demo_sending_form" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>Demo for Faces:</h1>
+    <form action="demo_faces" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>Demo for OCR:</h1>
+    <form action="demo_ocr" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>Demo JSON for Faces:</h1>
+    <form action="demo_faces_json" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>Demo JSON for OCR:</h1>
+    <form action="demo_ocr_json" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>JSON for Faces:</h1>
+    <form action="get_faces" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+    <h1>JSON for OCR:</h1>
+    <form action="get_ocr" method="post" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="hidden" name="token" value="plakate:poster2021">
+        <input type="submit" value="Upload">
+    </form>
+
+</body>
+</html>

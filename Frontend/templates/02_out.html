@@ -1,0 +1,24 @@
+  <!-- 02_out.html -->
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+      <meta charset="UTF-8">
+      <title>Process new file</title>
+  </head>
+  <body>
+
+      <h1>Image retrieval project</h1>
+      <form action="rgb2gray" method="post" enctype="multipart/form-data">
+          <input type="file" name="file" style="width:400px">
+          <input type="submit" value="Upload" style="width:200px">	
+      </form>
+      <h2> Original image </h2>
+      <img src="{{ img_file_original }}" alt="Output_0" width="200">
+      <h2> The most similar images to the original image from the Posters dataset </h2>
+      <img src="{{ img_file_retrieved_1 }}" alt="Output_1" width="200">
+      <img src="{{ img_file_retrieved_2 }}" alt="Output_2" width="200">
+      <img src="{{ img_file_retrieved_3 }}" alt="Output_3" width="200">
+      <img src="{{ img_file_retrieved_4 }}" alt="Output_4" width="200">
+      <img src="{{ img_file_retrieved_5 }}" alt="Output_5" width="200">
+  </body>
+  </html>
