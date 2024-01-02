@@ -27,4 +27,4 @@ find the most similar images to an image defined by a user from a given database
 Therefore, the images need to be characterized efficiently to keep similar images
 close in terms of distance.
 
-![Content-Based Image Retrival Pipeline](https://drive.google.com/file/d/14hpiP4Q86jjKZf4CmFuNP-IMrbf0wsAE/view?usp=drive_link)
+![Content-Based Image Retrival Pipeline](https://drive.google.com/file/d/14hpiP4Q86jjKZf4CmFuNP-IMrbf0wsAE/view?usp=sharing)
