@@ -34,9 +34,11 @@ close in terms of distance.
 ### Results of tSNE of embeddings
 
 Wang dataset
+
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/tsne_wang.PNG" width="500" height="350">
 
 Patterns dataset
+
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/tsne_patterns.PNG" width="500" height="350">
 
 ### Finetuning on patterns dataset
