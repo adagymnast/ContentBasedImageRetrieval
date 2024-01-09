@@ -28,3 +28,16 @@ Therefore, the images need to be characterized efficiently to keep similar image
 close in terms of distance.
 
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/CBIR%20system.PNG" width="500" height="350">
+
+## Results
+
+### Results of tSNE of embeddings
+
+Wang dataset
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/tsne_wang.PNG" width="500" height="350">
+
+Patterns dataset
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/tsne_patterns.PNG" width="500" height="350">
+
+### Finetuning on patterns dataset
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/loss_patterns.PNG" width="500" height="350">
