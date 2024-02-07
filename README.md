@@ -1,5 +1,17 @@
 # Content Based Image Retrieval
 
+## About
+Master thesis project which implements and tests various different methods on image retireval.
+Developed web application that retrieves the most similar images based on neural network embeddings of each image.
+
+## Web app view
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/Image%20retrieval%200.png" width="500" height="350">
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/Image%20retrieval%201.png" width="500" height="350">
+
+## Full text
+Full text available here:
+https://dspace.cuni.cz/bitstream/handle/20.500.11956/173675/120418791.pdf?sequence=1&isAllowed=y
+
 ## Abstract
 The Wienbibliothek im Rathaus, Vienna City Library, collected over
 300 thousand posters scanned in high quality from the last 100 years. Browsing
