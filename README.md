@@ -52,7 +52,6 @@ Wang dataset
 
 Patterns dataset
 
-Results after finetuning.
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/tsne_patterns.PNG" width="500" height="350">
 
 ### Finetuning loss curve on patterns dataset
