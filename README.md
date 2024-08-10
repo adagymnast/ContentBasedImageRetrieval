@@ -5,9 +5,9 @@ Master thesis project which implements and tests various different methods on im
 Developed web application that retrieves the most similar images based on neural network embeddings of each image.
 
 ## Web app view
+<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/image_retrieval_app.gif" width="563" height="303">
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/Image%20retrieval%200.png" width="563" height="303">
 <img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/Image%20retrieval%201.png" width="563" height="303">
-<img src="https://github.com/adagymnast/ContentBasedImageRetrieval/blob/master/Images/image_retrieval_app.gif" width="563" height="303">
 
 ## Full text
 Full text available here:
